@@ -1,0 +1,11 @@
+{
+  "name": "mateclaw-desktop",
+  "version": "1.0.0",
+  "private": true,
+  "scripts": {
+    "start": "echo start-desktop"
+  },
+  "dependencies": {
+    "electron": "^31.0.0"
+  }
+}
