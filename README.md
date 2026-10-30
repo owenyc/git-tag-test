@@ -14,4 +14,9 @@
 mateclaw-server/    Spring Boot 后端（模拟）
 mateclaw-ui/        Vue 3 前端（模拟）
 mateclaw-desktop/   Electron 桌面端（模拟）
+
+## v1.1.0 更新（模拟上游新版本）
+
+- 后端依赖升级
+- 前端页面优化
 ```
